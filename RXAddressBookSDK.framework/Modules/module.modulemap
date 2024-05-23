@@ -1,0 +1,6 @@
+framework module RXAddressBookSDK {
+  umbrella header "RXAddressBookSDK.h"
+  export *
+
+  module * { export * }
+}
